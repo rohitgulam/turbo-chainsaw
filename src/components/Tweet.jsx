@@ -10,15 +10,23 @@ function Tweet() {
         </div>
         <div>
             <p className='leading-9 text-xl py-5'>
-            Women. <br /> 
-            Your best friend (who is single) is the #1 cause of all your relationship troubles. Stop listening to her advice about men. Listen to your heart. 
+            Have different social circles for different purposes.
+            <br /> <br />
+            • Smart, nerdy men who help you with business and money-making opportunities
             <br />
-            Sincerely, all men.
+            • Low IQ savages who teach you to be carefree and ruthless
+            <br /> <br />
+            Most don’t do this.
             </p>
         </div>
         <div className='flex text-slate-500' >
-            <p className='mr-2'>3.25PM</p>
+            <p className='mr-2'>3:25PM</p>
             <p>01.01.2021</p>
+        </div>
+        <div className='flex justify-between mt-3 text-slate-500 w-1/2' >
+            <p className=''>12 replies</p>
+            <p> 24 retweets</p>
+            <p> 39 likes</p>
         </div>
     </div>
   )
